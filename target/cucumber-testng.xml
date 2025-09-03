@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testng-results failed="0" passed="1" skipped="0" total="1">
+    <suite duration-ms="21483" name="io.cucumber.core.plugin.TestNGFormatter">
+        <test duration-ms="21483" name="io.cucumber.core.plugin.TestNGFormatter">
+            <class name="Login to Transtreme_stage">
+                <test-method duration-ms="21048" finished-at="2025-09-03T15:53:58.701242800Z" name="Successful login to dashboard" started-at="2025-09-03T15:53:37.459951Z" status="PASS"/>
+            </class>
+        </test>
+    </suite>
+</testng-results>

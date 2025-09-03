@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.transtreme.framework.runners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.80 s -- in com.transtreme.framework.runners.TestRunner

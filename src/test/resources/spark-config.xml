@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <documentTitle>Transtreme Stage Automation Report</documentTitle>
+        <reportName>Regression Test Results</reportName>
+        <theme>DARK</theme>
+        <chartLocation>TOP</chartLocation>
+        <timelineEnabled>true</timelineEnabled>
+        <encoding>UTF-8</encoding>
+    </configuration>
+
+    <systemInfo>
+        <entry>
+            <key>OS</key>
+            <value>Windows 10</value>
+        </entry>
+        <entry>
+            <key>Java Version</key>
+            <value>21</value>
+        </entry>
+        <entry>
+            <key>Browser</key>
+            <value>Chrome</value>
+        </entry>
+        <entry>
+            <key>Environment</key>
+            <value>Stage</value>
+        </entry>
+    </systemInfo>
+</extentreports>

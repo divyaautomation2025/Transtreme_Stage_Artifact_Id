@@ -1,0 +1,1 @@
+{"uuid":"68af226f-fefd-4d1e-8618-4327a0ea5b74","name":"CucumberSuite","children":["335f6d95-d7b5-4cc0-95a0-e555edced354"],"befores":[],"afters":[{"name":"generatePDFReport","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1754160064707,"stop":1754160064723}],"start":1754160046152,"stop":1754160064739}
